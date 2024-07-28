@@ -12,21 +12,21 @@ Dự án: shop buôn bán thú cưng
  - Database: MongoDB
  - Kiểm thử API: Postman
 2/ Các chức năng của website:
-   -/ Admin:
+   - Admin:
     + Login và Logout
     + Thêm Category, Product
     + Xem danh sách Category, Product, Order và Customer
     + Cập nhật Category, Product và Order Status
     + Xoá Category, Product
     + Gửi Mail active và deactive Customers
-    -/ Customer:
+   - Customer:
      + Home
      + Sign up, Active, Login, Logout và My Profile
      + Search, Details
      + Add to cart, My cart, Remove from cart
      + Checkout, My orders
      + Access token
-    -/ Khác: responsive, sử dụng modal
+    - Khác: responsive, sử dụng modal
  3/ Tài liệu tham khảo:
  - Hướng dẫn sử dụng Modal và hideshow password: https://www.youtube.com/@hoidanit
  
