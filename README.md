@@ -32,8 +32,8 @@ Project: Pet Shop
 - Bootstrap V5: https://getbootstrap.com/docs/5.0
 - Building Footer: https://www.youtube.com/watch?v=f0bmU_Ponyk
 - Sass documentation: https://topdev.vn/blog/sass-scss-la-gi/
-- Instructions to Run the Project:
-4/ Navigate to the server directory:
+4. Instructions to Run the Project:
+- Navigate to the server directory:
 cd server
 Build the project (install node modules for admin and customer):
 npm build
