@@ -34,14 +34,11 @@ Project: Pet Shop
 - Sass documentation: https://topdev.vn/blog/sass-scss-la-gi/
 4. Instructions to Run the Project:
 - Navigate to the server directory:
-cd server
-Build the project (install node modules for admin and customer):
-npm build
-- "build": "(npm install) && (cd ../client-admin && npm install && npm run build) && (cd ../client-customer && npm install && npm run build)",
-Start the project:
-npm start
-"start": "node index.js"
-Connect to MongoDB: mongodb+srv://long:1234@shopping.rzqoj6m.mongodb.net/
-Admin:
-- User: long
-- Password : 1234
++ cd server (Build the project (install node modules for admin and customer))
+-> npm build ("build": "(npm install) && (cd ../client-admin && npm install && npm run build) && (cd ../client-customer && npm install && npm run build)")
++ Start the project:
+-> npm start ("start": "node index.js")
+- Connect to MongoDB: mongodb+srv://long:1234@shopping.rzqoj6m.mongodb.net/
+- Admin:
+ + User: long
+ + Password : 1234
