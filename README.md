@@ -41,4 +41,4 @@ Project: Pet Shop
 - Connect to MongoDB: mongodb+srv://long:1234@shopping.rzqoj6m.mongodb.net/
 - Admin:
  + User: long
- + Password : 1234
+ + Password : 123
