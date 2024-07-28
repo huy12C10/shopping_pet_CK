@@ -25,6 +25,7 @@ Các chức năng của website:
      + Search, Details
      + Add to cart, My cart, Remove from cart
      + Checkout, My orders
+     + Access token
     - Khác: responsive, sử dụng modal
  Tài liệu tham khảo:
  - Hướng dẫn sử dụng Modal và hideshow password: https://www.youtube.com/@hoidanit
