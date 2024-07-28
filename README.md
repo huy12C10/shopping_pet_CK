@@ -1,5 +1,5 @@
 Dự án: shop buôn bán thú cưng
-Tổng quan dự án:
+1/Tổng quan dự án:
  - Front-end: 
 + Được xây dựng bằng React.js. 
 + Giao diện người dùng  
@@ -11,7 +11,7 @@ Tổng quan dự án:
 + Cung cấp API cho front-end
  - Database: MongoDB
  - Kiểm thử API: Postman
-Các chức năng của website:
+2/ Các chức năng của website:
    - Admin:
     + Login và Logout
     + Thêm Category, Product
@@ -27,7 +27,7 @@ Các chức năng của website:
      + Checkout, My orders
      + Access token
     - Khác: responsive, sử dụng modal
- Tài liệu tham khảo:
+ 3/ Tài liệu tham khảo:
  - Hướng dẫn sử dụng Modal và hideshow password: https://www.youtube.com/@hoidanit
  
  - Bootstrap V5: https://getbootstrap.com/docs/5.0 
